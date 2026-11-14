@@ -44,3 +44,4 @@ This repository contains an end-to-end Exploratory Data Analysis (EDA) and relat
 ## How to View and Run
 You can inspect the full code, interactive visualizations, and SQL queries directly in your browser via Google Colab:
 👉 [Open Notebook in Google Colab](https://colab.research.google.com/drive/13VqfqDeOvkZGWZX81bj1MVWyB8-6rH_6?usp=sharing)
+[![View Dashboard](https://img.shields.io/badge/Tableau-Interactive%20Dashboard-orange)](https://public.tableau.com/views/BostonUberandLyftMarketIntelligenceDashboard/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
